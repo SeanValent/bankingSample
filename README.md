@@ -39,3 +39,8 @@ This is a simple banking REST API for Bank of America. For this sample, account 
 * Email address
 	* This field is optional, and might not be used in all accounts
 
+### Info and Contact
+
+Sean Valent
+516-382-1963
+seanfvalent@gmail.com
