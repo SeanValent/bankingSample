@@ -42,5 +42,7 @@ This is a simple banking REST API for Bank of America. For this sample, account 
 ### Info and Contact
 
 Sean Valent
+
 516-382-1963
+
 seanfvalent@gmail.com
