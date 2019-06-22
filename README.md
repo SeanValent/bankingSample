@@ -28,7 +28,7 @@ This is a simple banking REST API for Bank of America. For this sample, account 
 		* Balance: $10
 
 		
-* The API should also gracefully handle error cases
+* The aim is for the API to gracefully handle error cases
 	
 ### What fields are in a Bank Account?
 
